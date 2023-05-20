@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on [e-commerce audiophiole Frontend Mentor challenge](https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx)<br>🤝 Looking for job opportunities<br>💻 I'm currently learning TypeScript, TanStack Query and Sass<br>💬 Ask me anything
+🔭 Currently working on [Invoice App Frontend Mentor challenge](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>🤝 Looking for job opportunities<br>💻 I'm currently learning TypeScript, TanStack Query and Sass<br>💬 Ask me anything
 
 
 # 💻 Tech Stack:
