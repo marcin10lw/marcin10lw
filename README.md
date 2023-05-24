@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on [Invoice App Frontend Mentor challenge](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>🤝 Looking for job opportunities<br>💻 I'm currently learning TypeScript and Unit Testing<br>💬 Ask me anything
+🔭 Currently working on [Invoice App Frontend Mentor challenge](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>🤝 Looking for job opportunities<br>💻 I'm currently learning **TypeScript** and **Unit Testing**<br>💬 Ask me anything
 
 
 # 💻 Tech Stack:
