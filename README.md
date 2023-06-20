@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on [Invoice App Frontend Mentor challenge](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) and migrating my projects to **TypeScript**<br>🤝 Looking for job opportunities<br>💻 I'm currently learning **TypeScript** and **Node/Express**<br>💬 Ask me anything
+🔭 Currently working on Landing Page for Four Point SP. Z O.O.<br>💻 I'm currently learning **TypeScript** and **Node/Express**<br>💬 Ask me anything
 
 
 # 💻 Tech Stack:
