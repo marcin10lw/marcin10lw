@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Landing Page for Four Point SP. Z O.O.<br>💻 I'm currently learning **TypeScript** and **Node/Express**<br>💬 Ask me anything
+🔭 Currently working on Landing Page for [Remote Sensing Business Solutions](https://www.linkedin.com/company/rsbs-space/?originalSubdomain=pl)<br>💻 I'm currently learning **TypeScript** and **Node/Express**<br>💬 Ask me anything
 
 
 # 💻 Tech Stack:
