@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Landing Page commercial project for [Remote Sensing Business Solutions](https://www.linkedin.com/company/rsbs-space/?originalSubdomain=pl)<br>💻 I'm currently learning **TypeScript** and **Node/Express**<br>💬 Ask me anything
+🔭 Currently working on Landing Page commercial project for [Remote Sensing Business Solutions](https://www.linkedin.com/company/rsbs-space/?originalSubdomain=pl). Check out the results here: [TerraEye](https://terraeye.co/).<br>💻 I'm currently learning **Unit testing** and **Node/Express**<br>💬 Ask me anything
 
 
 # 💻 Tech Stack:
