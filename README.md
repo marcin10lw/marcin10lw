@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 Currently working on Landing Page commercial project for [Remote Sensing Business Solutions](https://www.linkedin.com/company/rsbs-space/?originalSubdomain=pl). Check out the results here: [TerraEye](https://terraeye.co/).<br>💻 I'm currently learning **Unit testing** and **Node/Express**<br>💬 Ask me anything
+# About Me:
+<br>Learning **Node/Express** and practicing algorithms<br>
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcin10lw&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
