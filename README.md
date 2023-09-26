@@ -1,5 +1,5 @@
 # About Me:
-<br>Learning **Node/Express** and practicing algorithms<br>
+<br>Learning **Node/Express**, practicing algorithms and working on fullstack jobs tracking app<br>
 
 
 # Tech Stack:
